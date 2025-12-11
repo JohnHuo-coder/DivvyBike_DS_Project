@@ -25,7 +25,7 @@ Insights from this analysis can inform operational planning, bike rebalancing st
 
 | File | Description |
 |------|-------------|
-| **report.pdf** | Full project report with methodology, visualizations, conclusions, and recommendations |
+| **project_report_jingyu_huo.html** | Full project report with methodology, visualizations, conclusions, and recommendations |
 | **code/** | Jupyter Notebook for data cleaning, feature engineering, EDA, and plotting |
 | **requirements.txt** | Required Python packages for running the analysis |
 
@@ -36,15 +36,11 @@ To reproduce the analysis, install dependencies with:
 
 pip install -r requirements.txt
 
-
-Python version: 3.9+
-
 ## ▶️ How to Run
 
 Clone this repository
 
 git clone https://github.com/yourusername/divvy-landuse-analysis.git
-
 
 Navigate into the project folder
 
